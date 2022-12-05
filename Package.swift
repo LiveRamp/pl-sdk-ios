@@ -13,7 +13,7 @@ let package = Package(
         ],
         targets: [
             .binaryTarget(
-                name: "LRPreferenceLinkSDK", url: "https://pl-sdk-ios-prodlaunch.liveramp.com/1.0.7/LRPreferenceLinkSDK.zip", checksum: "94573e3ea33f34479e54ecacc6aca50c3c6764c5745bda33336a5e7dc74e9ba6"
+                name: "LRPreferenceLinkSDK", url: "https://pl-sdk-ios-prod.launch.liveramp.com/1.0.7/LRPreferenceLinkSDK.zip", checksum: "9505ddabbe2144e559122b79fc9c9777cfba31207dd48f3cf9fc771750c19788"
             )
         ]
 )
